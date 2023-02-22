@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "kingpin:raw_gem"
+  },
+  "result": "kingpin:gem",
+  "experience": 0.9,
+  "cookingtime": 400
+}

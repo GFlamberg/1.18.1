@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "B#B",
+    "ABA"
+  ],
+  "key": {
+    "#": {
+      "item": "kingpin:gem"
+    },
+    "A": {
+      "item": "minecraft:oak_planks"
+    },
+    "B": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "kingpin:kingpin_block"
+  }
+}

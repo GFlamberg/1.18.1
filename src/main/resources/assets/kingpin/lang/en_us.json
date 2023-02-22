@@ -1,0 +1,11 @@
+{
+  "item.kingpin.gem": "Gem",
+  "item.kingpin.raw_gem": "Raw Gem",
+
+  "block.kingpin.gem_block": "Gem Block",
+  "block.kingpin.deepslate_gem_ore": "Deepslate Gem Ore",
+  "block.kingpin.gem_ore": "Gem Ore",
+  "block.kingpin.kingpin_block": "Kingpin Block",
+
+  "ItemGroup.kingpintab": "Kingpin Mod"
+}

@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "kingpin:gem_ore",
+    "kingpin:deepslate_gem_ore",
+    "kingpin:gem_block"
+  ]
+}

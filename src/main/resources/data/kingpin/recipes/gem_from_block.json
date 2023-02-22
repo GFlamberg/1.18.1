@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "kingpin:gem_block"
+    }
+  ],
+  "result": {
+    "item": "kingpin:gem",
+    "count": 9
+  }
+}

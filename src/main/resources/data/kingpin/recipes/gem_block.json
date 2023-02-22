@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "kingpin:gem"
+    }
+  },
+  "result": {
+    "item": "kingpin:gem_block"
+  }
+}
